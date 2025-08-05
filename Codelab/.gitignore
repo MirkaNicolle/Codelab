@@ -1,0 +1,23 @@
+# Archivos de compilación
+*.class
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# MacOS y Windows específicos (por si usas ambos en algún momento)
+Icon?
+ehthumbs.db
+desktop.ini
